@@ -1,3 +1,3 @@
 # Astro-tutorial-2
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-ateemj-vteumj)
+The Astro tutorial "Build a Blog" project. State of the code after the end of Unit 2.
